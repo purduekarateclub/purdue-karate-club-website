@@ -33,6 +33,8 @@ The most important file is **`index.html`**. Almost every content change you wil
 
 All updates to the website are made directly through GitHub's website — no software installation required. You just need a GitHub account with access to this repository.
 
+However, if you're familiar with programming then you probably know better ways of doing this :)
+
 ---
 
 ### Updating Text
