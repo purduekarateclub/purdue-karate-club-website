@@ -1,4 +1,5 @@
 # Purdue Karate Club Website
+link here https://purduekarateclub.github.io/purdue-karate-club-website/
 
 The official website for the Purdue Karate Club. It is a single-page site built with plain HTML, CSS, and JavaScript — no special framework required. The page includes sections for news, the practice schedule, club information, FAQs, a photo gallery, and contact links.
 
